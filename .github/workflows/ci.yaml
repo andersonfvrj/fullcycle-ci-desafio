@@ -1,4 +1,5 @@
 name: ci-node-workflow
+on: [push]
 jobs:
   checa-aplicacao:
     runs-on: ubuntu-latest
