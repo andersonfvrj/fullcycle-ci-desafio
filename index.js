@@ -8,6 +8,7 @@ app.get('/', (res) => {
 
 function soma(x, y) {
 
+    //Alteração para PR
     return x + y;
 
 }
